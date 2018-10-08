@@ -9,11 +9,23 @@ h1 {
     font-weight: bold;
 }
 
-/* why the fuck isn't background image working */
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 14px;
+}
+
 .nav {
     color: white;
-    background-image: url("resources/images/the-flatiron-building.png");
-    background-color: black;
+    background-image: url("../images/the-flatiron-building.png");
 }
 
 a {
@@ -30,6 +42,5 @@ a {
 
 /* why the fuck isn't background image working */
 #designed {
-background-image: url("resources/images/the-flatiron-building.png");
-    background-color: red;
+background-image: url("../images/the-flatiron-building.png");
 }
