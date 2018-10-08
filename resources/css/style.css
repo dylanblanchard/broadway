@@ -33,14 +33,14 @@ a {
   font-size: 18px;
 }
 
+/* why the fuck isn't the text aligning left. ID is more specific than tag */
 #footer {
   background-color: dimgray;
   font-size: 11px;
   color: white;
-  text-align: left;
 }
 
-/* why the fuck isn't background image working */
+
 #designed {
   background-image: url("../images/the-flatiron-building.png");
 }
